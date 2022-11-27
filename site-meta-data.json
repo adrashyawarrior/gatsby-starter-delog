@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Tundla Developers",
+  "siteUrl": "https://friendly-melba-14a0ed.netlify.app/",
+  "description": "A Blog For Developers By Developers",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Tundla Developers",
+    "description": "A Blog For Developers By Developers. We use an agile approach to write articles and connect with the needs of web developers early and often."
   }
 }
